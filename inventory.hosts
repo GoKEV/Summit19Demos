@@ -1,7 +1,7 @@
 [ec2]
 aws-ec2-instance-[01:10] ansible_host=10.11.12.[51:60]
 
-[vpc_id_vpc_06fef7036ef847a6b]
+[vpc_id_vpc_06GoKEVf847a6b]
 aws-ec2-instance-[01:10] ansible_host=10.11.12.[51:60]
 
 [instance_state]
